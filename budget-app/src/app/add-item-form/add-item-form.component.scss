@@ -1,0 +1,17 @@
+.field-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    input {
+        width: 300px;
+    }
+    .field {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        button {
+            height: 50%;
+        }
+    }
+}
